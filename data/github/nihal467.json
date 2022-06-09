@@ -1,6 +1,566 @@
 {
-  "last_updated": 1653729413.0,
+  "last_updated": 1654678145.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1867",
+      "time": 1654678145.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1867#issuecomment-1149639281",
+      "text": "@gigincg we are having breadcrumbs in place, so, shall we close it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1850",
+      "time": 1654676772.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1850#issuecomment-1149616199",
+      "text": "@gigincg we have proper UI now for this process now, shall we close it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1824",
+      "time": 1654676707.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1824#issuecomment-1149615089",
+      "text": "@gigincg it's been parked and blocked for a long time, shall we close it!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1804",
+      "time": 1654676557.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1804#issuecomment-1149612442",
+      "text": "@gigincg it is an old PR, stationed for more than 9 months now, shall we close it!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1638",
+      "time": 1654676459.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1638#issuecomment-1149610900",
+      "text": "@gigincg we are having all the buttons working now, shall we close this!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1470",
+      "time": 1654676278.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1470#issuecomment-1149608015",
+      "text": "@gigincg its been blocked for a long time now, shall we close it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1431",
+      "time": 1654676180.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1431#issuecomment-1149606438",
+      "text": "@gigincg all the pages in every section is having pagination, can we close this PR "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#1383",
+      "time": 1654674989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/1383#issuecomment-1149587422",
+      "text": "@gigincg the translation is already in the platform, and particular PR seems old, what to do!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2586",
+      "time": 1654670828.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2586#issuecomment-1149528823",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654670723.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606#issuecomment-1149527552",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2653",
+      "time": 1654668658.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2653#issuecomment-1149502955",
+      "text": "![172045750-1654c71d-96fe-4be1-93cc-2826956df84b](https://user-images.githubusercontent.com/57055998/172544133-d21dac7d-400d-4e4c-9bb1-04df61875e72.png)\r\n\r\n@rithviknishad @gigincg this one looks good, is it possible to make this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2610",
+      "time": 1654668127.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2610#issuecomment-1149497305",
+      "text": "@Pranshu1902 @gigincg test failed, when we upload multiple files, the same error occurs, we need to manually reload the page.\r\n\r\nSteps to reproduce\r\n\r\n1.  upload one file and it works fine by auto-reload\r\n2. again upload another file, then the auto reload fails"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2641",
+      "time": 1654667481.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2641#issuecomment-1149491588",
+      "text": "\r\n![5](https://user-images.githubusercontent.com/57055998/172541534-513566cf-5889-433d-ad85-582bfbf5616f.jpg)\r\n\r\n@patelaryan7751 @gigincg make the red highlight-filled till the border line. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2645",
+      "time": 1654667288.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2645#issuecomment-1149489940",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2650",
+      "time": 1654667090.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2650#issuecomment-1149488219",
+      "text": "![4](https://user-images.githubusercontent.com/57055998/172540360-ad8aad20-cd8a-49c5-8ae4-4c6e279ace23.jpg)\r\n\r\ntest failed, the \"Update status/details\" button is not responsive and the transfer heading is overlapping with the button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2651",
+      "time": 1654666174.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2651#issuecomment-1149480290",
+      "text": "![2](https://user-images.githubusercontent.com/57055998/172538727-d5b40a18-b899-46d1-a29f-9882227e3df9.jpg)\r\n\r\n![3](https://user-images.githubusercontent.com/57055998/172538731-aed3ed78-c0b2-4f97-880f-b545381cc985.jpg)\r\n\r\n@siddnikh @gigincg test failed, after applying the filter as working, not working asset also coming in the asset"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2653",
+      "time": 1654665921.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2653#issuecomment-1149477414",
+      "text": "![1](https://user-images.githubusercontent.com/57055998/172538298-900decd3-651b-4abd-86f7-03d0f199f67d.jpg)\r\n\r\n@rithviknishad @gigincg test failed, the UI doesn't look good"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2654",
+      "time": 1654665538.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2654#issuecomment-1149473963",
+      "text": "@rithviknishad @gigincg how we will be assigning the asset class, currently unable to find it in the existing PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654435245.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606#issuecomment-1146803608",
+      "text": "@Pranshu1902 @gigincg can you check the deploy preview"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2470",
+      "time": 1654433731.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2470#issuecomment-1146799727",
+      "text": "tested"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2637",
+      "time": 1654433522.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2637#issuecomment-1146799233",
+      "text": "tested"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2635",
+      "time": 1654433444.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2635#issuecomment-1146799077",
+      "text": "![5](https://user-images.githubusercontent.com/57055998/172051181-faa9cc3a-ddb8-4d45-8d94-83f7c9aeb929.jpg)\r\n\r\n@ishanExtreme @gigincg when we are clicking patient details, there is an alert showing not having permission to do the action, so should we disable the patient detail button or remove the alert, and if someone clicks on unauthorized things, this alert should come?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2637",
+      "time": 1654432704.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2637#issuecomment-1146797178",
+      "text": "![4](https://user-images.githubusercontent.com/57055998/172050832-663d3af5-3e23-497c-a8c1-cbd504a9f4b0.jpg)\r\n\r\ntest failed, @ishanExtreme @gigincg i can't see the PR updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2407",
+      "time": 1654431978.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2407#issuecomment-1146795450",
+      "text": "@cp-Coder @gigincg can you check the deploy issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2427",
+      "time": 1654431875.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2427#issuecomment-1146795243",
+      "text": "@cp-Coder @gigincg is it good for testing?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2600",
+      "time": 1654431589.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2600#issuecomment-1146794628",
+      "text": "@khavinshankar @gigincg check the deploy failure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2647",
+      "time": 1654431492.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2647#issuecomment-1146794430",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2647",
+      "time": 1654431380.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2647#issuecomment-1146794179",
+      "text": "![3](https://user-images.githubusercontent.com/57055998/172049964-453bbe77-d26e-4e73-a8b2-39c723162863.jpg)\r\n\r\ntest failed, @patelaryan7751 @gigincg the date is saying invalid"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2644",
+      "time": 1654430976.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2644#issuecomment-1146793137",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2552",
+      "time": 1654430569.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2552#issuecomment-1146791990",
+      "text": "![2](https://user-images.githubusercontent.com/57055998/172049496-0810251e-435d-4db1-bd89-b237580f08a3.jpg)\r\n\r\ntest failed, @rithviknishad @gigincg the UI still doesn't look good, i have done hard refresh also, still no change"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2650",
+      "time": 1654424019.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2650#issuecomment-1146778103",
+      "text": "@naman114 @gigincg check the deploy issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2552",
+      "time": 1654423973.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2552#issuecomment-1146777998",
+      "text": "![wkeopf](https://user-images.githubusercontent.com/57055998/172045656-cee53dc7-ca6f-4af7-badc-1225be9662c2.jpg)\r\n\r\ntest failed @rithviknishad @nihal467 the droplist is look like a description, can you change it to better UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2499",
+      "time": 1654323307.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2499#issuecomment-1146547294",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2613",
+      "time": 1654323129.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2613#issuecomment-1146546863",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2610",
+      "time": 1654322512.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2610#issuecomment-1146545232",
+      "text": "@Pranshu1902 @gigincg test failed, once the file is uploaded, i need to manually refresh the page to see the uploaded file"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2639",
+      "time": 1654321793.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2639#issuecomment-1146543574",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2641",
+      "time": 1654321619.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2641#issuecomment-1146543200",
+      "text": "![1](https://user-images.githubusercontent.com/57055998/171985994-d143e8e9-e4eb-42e9-b0d3-7acf35641587.jpg)\r\n@patelaryan7751 @gigincg \r\n\r\nthe red highlight colour is partially colored, can you fix that"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2563",
+      "time": 1654320609.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2563#issuecomment-1146540786",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2343",
+      "time": 1654175715.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2343#issuecomment-1144850919",
+      "text": "@cp-Coder @gigincg check the deployment failed issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2563",
+      "time": 1654164897.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2563#issuecomment-1144690378",
+      "text": "@skks1212 I want to bring the left side a little bit lower so that it is aligned with the right side"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2615",
+      "time": 1654158877.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2615#issuecomment-1144599165",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2613",
+      "time": 1654158648.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2613#issuecomment-1144595659",
+      "text": "@patelaryan7751 the deploy preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2616",
+      "time": 1654158582.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2616#issuecomment-1144594572",
+      "text": "@rabilrbl  the conjusted UI have be fixed with #2570 PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2570",
+      "time": 1654158474.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2570#issuecomment-1144592780",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2567",
+      "time": 1654158177.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2567#issuecomment-1144587147",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2563",
+      "time": 1654157957.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2563#issuecomment-1144583841",
+      "text": "![3](https://user-images.githubusercontent.com/57055998/171586521-b2362b48-023b-4e82-b196-8700b52dbceb.jpg)\r\n\r\ncan you align the right side and left side equally on the top and bottom "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2607",
+      "time": 1654157504.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2607#issuecomment-1144577293",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654157379.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606#issuecomment-1144575428",
+      "text": "@Pranshu1902 deployment preview is failed"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2631",
+      "time": 1654157298.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2631",
+      "text": "doctor connect Filter Excess White space"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2616",
+      "time": 1654156027.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2616#issuecomment-1144555159",
+      "text": "@patelaryan7751 @gigincg can you check this URL\r\n\r\nhttps://care.coronasafe.in/facility/bd466cf6-0fde-46b1-9591-0acf9d955dd1/patient/e98d561a-0944-4a01-b461-232d2609045f/consultation/7ecb3689-6c84-4901-ac17-6efdf10f4c8a\r\n\r\nit is having issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2620",
+      "time": 1654141948.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2620#issuecomment-1144406369",
+      "text": "@gigincg @patelaryan7751 this PR look fine, tested"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654098296.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606#issuecomment-1143777075",
+      "text": "@Pranshu1902 @gigincg rather than simply putting no data available, put it inside a white box to match with the above UI. @gigincg what do you think"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2599",
+      "time": 1654097517.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2599#issuecomment-1143761625",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2586",
+      "time": 1654096734.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2586#issuecomment-1143745860",
+      "text": "test failed, \r\n![error](https://user-images.githubusercontent.com/57055998/171438813-ad08c8e2-8d16-4fa2-af17-7813a3883716.png)\r\n\r\n- when we are filling with allergies only, the error occurs \r\n- reduces the size of no medical \r\n- is it better to change the \"no medical\" to \"no medical history available\". what is your opinion @gigincg  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2579",
+      "time": 1654095581.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2579#issuecomment-1143721075",
+      "text": "@kunatastic @gigincg test failed, make the page responsive, asset search name box and all are not responsive"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2576",
+      "time": 1654095259.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2576#issuecomment-1143714746",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2506",
+      "time": 1654095049.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2506#issuecomment-1143710775",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2499",
+      "time": 1654094887.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2499#issuecomment-1143707773",
+      "text": "@Pranshu1902 @gigincg the pagination is missing, can you share me the patient URL, which you used"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2616",
+      "time": 1654093839.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2616",
+      "text": "Issues with the tailwind update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2594",
+      "time": 1654053413.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2594#issuecomment-1143073102",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2594",
+      "time": 1654050921.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2594#issuecomment-1143054454",
+      "text": "@rabilrbl @gigincg the deployment preview is failed\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2596",
+      "time": 1654003921.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2596",
+      "text": "BP Decimal Precision to 2 decimal"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2594",
+      "time": 1654003813.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2594#issuecomment-1142139509",
+      "text": "@gigincg @rabilrbl is it good for testing, the preview is failed?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2595",
+      "time": 1654000707.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2595",
+      "text": "Alignment Issue : Facility Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2570",
+      "time": 1653988115.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2570#issuecomment-1141874909",
+      "text": "@rabilrbl @rithviknishad @gigincg the deployment preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2343",
+      "time": 1653987201.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2343#issuecomment-1141859195",
+      "text": "@cp-Coder @gigincg the deployment preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2386",
+      "time": 1653976464.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2386#issuecomment-1141695287",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2395",
+      "time": 1653976288.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2395#issuecomment-1141693780",
+      "text": "tset approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2473",
+      "time": 1653975790.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2473#issuecomment-1141689465",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2474",
+      "time": 1653975071.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2474#issuecomment-1141683506",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2571",
+      "time": 1653974799.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2571#issuecomment-1141681062",
+      "text": "test approved, @ishanExtreme @gigincg what to do with the location management, are we making the backend change"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2590",
+      "time": 1653921167.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2590#issuecomment-1141227853",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2586",
+      "time": 1653920974.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2586#issuecomment-1141224704",
+      "text": "@Pranshu1902 @gigincg deploy preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2571",
+      "time": 1653920509.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2571#issuecomment-1141216812",
+      "text": "![Capture](https://user-images.githubusercontent.com/57055998/171011552-3406820a-3d63-43a9-9f39-97ac7b494987.JPG)\r\n\r\n@ishanExtreme @gigincg test failed, the add patient button is green in the patient tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2579",
+      "time": 1653904023.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2579#issuecomment-1140942973",
+      "text": "@kunatastic @gigincg the deployment preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2576",
+      "time": 1653903814.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2576#issuecomment-1140939677",
+      "text": "test approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2570",
+      "time": 1653903245.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2570#issuecomment-1140930229",
+      "text": "@rabilrbl @gigincg deploy preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2567",
+      "time": 1653903103.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2567#issuecomment-1140927976",
+      "text": "@rabilrbl @gigincg the deploy preview failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2563",
+      "time": 1653902859.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2563#issuecomment-1140922850",
+      "text": "@skks1212 @gigincg the deploy preview is failed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2558",
+      "time": 1653902739.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2558#issuecomment-1140920513",
+      "text": "test approved"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2556",

@@ -1,6 +1,153 @@
 {
-  "last_updated": 1653731215.0,
+  "last_updated": 1654685445.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2499",
+      "time": 1654685445.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2499",
+      "text": "Removed overlapping Fixes Issue#2492"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2586",
+      "time": 1654606790.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2586#issuecomment-1148639476",
+      "text": "> test failed, ![error](https://user-images.githubusercontent.com/57055998/171438813-ad08c8e2-8d16-4fa2-af17-7813a3883716.png)\r\n> \r\n>     * when we are filling with allergies only, the error occurs\r\n> \r\n>     * reduces the size of no medical\r\n> \r\n>     * is it better to change the \"no medical\" to \"no medical history available\". what is your opinion @gigincg\r\n\r\nIs the font better now?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2586",
+      "time": 1654605783.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2586#issuecomment-1148616616",
+      "text": "Updated view \r\n![Screenshot (363)](https://user-images.githubusercontent.com/70687348/172381589-9e21975d-9759-4caf-99f9-656037b85fd8.png)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654532775.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606#issuecomment-1147640191",
+      "text": "@nihal467 error resolved!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2499",
+      "time": 1654529326.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2499#issuecomment-1147580443",
+      "text": "@khavinshankar done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2472",
+      "time": 1654235766.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2472",
+      "text": "Fixes Issue#2471"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2524",
+      "time": 1654228677.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2524",
+      "text": "Added uniformity to the page Fixes Issue#2522"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#49",
+      "time": 1654202400.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/49",
+      "text": "update Pranshu1902's bio"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2539",
+      "time": 1654169132.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2539",
+      "text": "Restyled for mobile view Issue#2535"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2556",
+      "time": 1654168725.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2556",
+      "text": "Blank spaces won't be accepted in consultation form Issue#2553"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#49",
+      "time": 1654167600.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/49",
+      "text": "update Pranshu1902's bio"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654146696.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606#issuecomment-1144443217",
+      "text": "http://localhost:4000/sample/22e36198-0c6c-4ffa-9c0a-3a35aeac684e\r\n\r\nAdded UI for \"No Data Found\"\r\n![Screenshot (351)](https://user-images.githubusercontent.com/70687348/171557180-efb14b1e-0df5-49be-8b61-c771e5e26bbc.png)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2499",
+      "time": 1654146198.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2499#issuecomment-1144439096",
+      "text": "http://localhost:4000/facility/7a560e62-6aae-4293-8f1a-0ba840e3449f/patient/192fdee9-397f-49bd-833a-10f700416da8/consultation/d794ba54-da42-4238-8ba9-0b628ca60069"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2610",
+      "time": 1654065128.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2610",
+      "text": "Update list without reload on Samples page Issue#2609"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2609",
+      "time": 1654064277.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2609",
+      "text": "Reload required to view uploaded files in Sample Report"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2608",
+      "time": 1654064191.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2608",
+      "text": "Reload required to view uploaded files in Sample Report"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2606",
+      "time": 1654062768.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2606",
+      "text": "Added \"No Data Found\" on Samples Page Issue#2604"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2604",
+      "time": 1654058571.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2604",
+      "text": "Nothing visible under \"View Sample Report\" section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#2308",
+      "time": 1654003726.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2308#issuecomment-1142137860",
+      "text": "@gigincg the issue has been resolved by @skks1212 in another PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2586",
+      "time": 1653911011.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/2586",
+      "text": "Added \"No Medical Found\" on patients page & uniformity on Update Patient Page Issue#2585"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#2585",
+      "time": 1653908866.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/2585",
+      "text": "Showing empty space instead of \"No Medical\" in the medical section"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#2559",
@@ -214,32 +361,20 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/2556",
-      "title": "Blank spaces won't be accepted in consultation form Issue#2553"
+      "link": "https://github.com/coronasafe/care_fe/pull/2610",
+      "title": "Update list without reload on Samples page Issue#2609"
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/2539",
-      "title": "Restyled for mobile view Issue#2535"
+      "link": "https://github.com/coronasafe/care_fe/pull/2606",
+      "title": "Added \"No Data Found\" on Samples Page Issue#2604"
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/2524",
-      "title": "Added uniformity to the page Fixes Issue#2522"
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/2499",
-      "title": "Removed overlapping Fixes Issue#2492"
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/2472",
-      "title": "Fixes Issue#2471"
+      "link": "https://github.com/coronasafe/care_fe/pull/2586",
+      "title": "Added \"No Medical Found\" on patients page & uniformity on Update Patient Page Issue#2585"
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/2382",
       "title": "Update BedPreset's List without reload Issue#2148"
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/2308",
-      "title": "Reduced white spaces and added 2 column view Issue#2046"
     }
   ]
 }

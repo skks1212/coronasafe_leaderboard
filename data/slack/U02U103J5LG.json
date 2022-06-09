@@ -438,9 +438,10 @@
                     "name": "white_check_mark",
                     "users": [
                         "U02TDGQQPMJ",
-                        "U02U1035G0G"
+                        "U02U1035G0G",
+                        "UV5PPBE2D"
                     ],
-                    "count": 2
+                    "count": 3
                 }
             ]
         }
@@ -581,6 +582,629 @@
                     "users": [
                         "U02TDGQQPMJ",
                         "U02T4HD63P0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2022-05-31 00:00:00": [
+        {
+            "client_msg_id": "e46a8b9c-f5d1-4a4a-903d-0be0f7494c29",
+            "type": "message",
+            "text": "*EOD Updates*\n\n*Sorry for late update my system was behaving stangerly today right arrow key was continuously pressed even in boot menu, I tried to fix it by* *opening the laptop case and eventually arrow key died in lappy keyboard \ud83e\udd79\ud83e\udd79*\n\n*Other* than *that I explored care be code*",
+            "user": "U02U103J5LG",
+            "ts": "1654023505.382339",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "r3j",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD Updates\n",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sorry for late update my system was behaving stangerly today right arrow key was continuously pressed even in boot menu, I tried to fix it by",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "opening the laptop case and eventually arrow key died in lappy keyboard \ud83e\udd79\ud83e\udd79\n",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Other ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "than"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " that I explored care be code",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2022-06-01 00:00:00": [
+        {
+            "client_msg_id": "0be104e9-10b8-4abe-a3b6-76a7bcdfcc21",
+            "type": "message",
+            "text": "*EOD Updates*\nIssues raised:\n\u2022 <https://github.com/coronasafe/care_fe/issues/2605|#2605> (Fix Patient notes broken link)\nPR:\n\u2022 <https://github.com/coronasafe/care_fe/pull/2607|#2607> (Patient notes broken link fixed)\nWorking on:\n\u2022 <https://github.com/coronasafe/care_fe/issues/2611|#2611> (File Upload: Audio not working)",
+            "user": "U02U103J5LG",
+            "ts": "1654094357.474619",
+            "team": "TC99SV7B6",
+            "edited": {
+                "user": "U02U103J5LG",
+                "ts": "1654094410.000000"
+            },
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1654061343,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/issues/2605",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "<https://github.com/coronasafe/care_fe/issues/2605|#2605 Fix Patient notes broken link>",
+                    "title": "<https://github.com/coronasafe/care_fe/issues/2605|#2605 Fix Patient notes broken link>",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1654062773,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/2607",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "<https://github.com/coronasafe/care_fe/pull/2607|#2607 Patient notes broken link fixed>",
+                    "title": "<https://github.com/coronasafe/care_fe/pull/2607|#2607 Patient notes broken link fixed>",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3RfI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD Updates",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nIssues raised:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/2605",
+                                            "text": "#2605",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (Fix Patient notes broken link)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "PR:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/2607",
+                                            "text": "#2607",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (Patient notes broken link fixed)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Working on:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/2611",
+                                            "text": "#2611",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (File Upload: Audio not working)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U02TDGQQPMJ",
+                        "U02T4HD63P0",
+                        "U02TDGQ0TFE",
+                        "U02TPSYRUPK",
+                        "U02U1035G0G",
+                        "UV5PPBE2D"
+                    ],
+                    "count": 6
+                }
+            ]
+        }
+    ],
+    "2022-06-02 00:00:00": [
+        {
+            "client_msg_id": "eab34dfd-08ac-4495-9314-28bbf4d5d93d",
+            "type": "message",
+            "text": "*EOD Updates*\nIssues raised:\n\u2022 <https://github.com/coronasafe/care_fe/issues/2633|#2633> (Improve patients page for read-only users)\n\u2022 <https://github.com/coronasafe/care_fe/issues/2636|#2636> (improve patient details section for read-only users)\nPR:\n\u2022 <https://github.com/coronasafe/care_fe/pull/2635|#2635> (Partially improved patients page for read-only users)\n\u2022 <https://github.com/coronasafe/care_fe/pull/2637|#2637> (Partially improved patients details section for read-only users)",
+            "user": "U02U103J5LG",
+            "ts": "1654179141.514489",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "P8L9j",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD Updates",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nIssues raised:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/2633",
+                                            "text": "#2633",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (Improve patients page for read-only users)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/2636",
+                                            "text": "#2636",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (improve patient details section for read-only users)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "PR:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/2635",
+                                            "text": "#2635",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (Partially improved patients page for read-only users)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/2637",
+                                            "text": "#2637",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (Partially improved patients details section for read-only users)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UV5PPBE2D",
+                        "U02T4HD63P0",
+                        "U02TPSZMJRF"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "white_check_mark",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2022-06-03 00:00:00": [
+        {
+            "client_msg_id": "496d7394-411c-4f49-8e66-6ca15ddd322e",
+            "type": "message",
+            "text": "*EOD Updates*\nIssue Raised:\n\u2022 <https://github.com/coronasafe/care/issues/813|#813 backend>\nWorking on solving issue #813 found the buggy code snippet working on its fix.",
+            "user": "U02U103J5LG",
+            "ts": "1654263809.080659",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1654241769,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care/issues/813",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "<https://github.com/coronasafe/care/issues/813|#813 Endpoint  /consultation/consultationId/daily_rounds/analyse/ giving error for read-only users>",
+                    "text": "*Overview*\n\nPOST request to endpoint /consultation/consultationId/daily_rounds/analyse/ gives _Permission Denied_ error for read-only users. This endpoint is used for *ABG Analysis Plot* at frontend.\n\n*Steps to reproduce*\n\n1. Login as read-only user (Cred=&gt; username:readonly, password:Welcome@123)\n2. Go to patient tab and choose any patient\n3. Opening consultation page will give \"You Dont have permission...\" notfification when logged in as read-only\n4. Observe network section in developer option of browser\n\n*Demo*\nFacilities._.Corona.Care.-.2.June.2022.mp4",
+                    "title": "<https://github.com/coronasafe/care/issues/813|#813 Endpoint  /consultation/consultationId/daily_rounds/analyse/ giving error for read-only users>",
+                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "fields": [
+                        {
+                            "value": "<https://github.com/ishanExtreme|@ishanExtreme>",
+                            "title": "Assignees",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BJR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD Updates",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nIssue Raised:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/issues/813",
+                                            "text": "#813 backend",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Working on solving issue #813 found the buggy code snippet working on its fix."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "white_check_mark",
+                    "users": [
+                        "U02TDGQQPMJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2022-06-07 00:00:00": [
+        {
+            "client_msg_id": "5b77ebbf-033c-45de-a414-b9837efcf821",
+            "type": "message",
+            "text": "*EOD Updates*\n\nIssue Raised:\n\u2022 <https://github.com/coronasafe/care_fe/issues/2656|#2656>(Longitude value doesnot accepts more than 90 and less than -90)\nPR:\n\u2022 <https://github.com/coronasafe/care/pull/830|#830(backend)>(DRY Permissions added for assetLocation viewset)",
+            "user": "U02U103J5LG",
+            "ts": "1654610942.621689",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1654610016,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/issues/2656",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "<https://github.com/coronasafe/care_fe/issues/2656|#2656 Longitude value doesnot accepts more than 90 and less than -90>",
+                    "title": "<https://github.com/coronasafe/care_fe/issues/2656|#2656 Longitude value doesnot accepts more than 90 and less than -90>",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1654598076,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/830",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "<https://github.com/coronasafe/care/pull/830|#830 DRY Permissions added for assetLocation viewset>",
+                    "title": "<https://github.com/coronasafe/care/pull/830|#830 DRY Permissions added for assetLocation viewset>",
+                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "=sTu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD Updates",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nIssue Raised:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/2656",
+                                            "text": "#2656",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(Longitude value doesnot accepts more than 90 and less than -90)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nPR:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/pull/830",
+                                            "text": "#830(backend)",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(DRY Permissions added for assetLocation viewset)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "white_check_mark",
+                    "users": [
+                        "U02TB823H8A",
+                        "U02U1035G0G"
                     ],
                     "count": 2
                 }
